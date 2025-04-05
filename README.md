@@ -43,7 +43,7 @@
 ## 📫 Let’s Connect:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/logesht14/)
 - 🌐 [Portfolio](https://logesh14portfolio.netlify.app/content.net/html/tokyo/index-dark.html)
-- 📧 *Add your email if you want people to contact you*
+- 📧 [Email](logeshselvan6@gmail.com)
 
 ---
 
