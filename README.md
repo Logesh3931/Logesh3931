@@ -29,6 +29,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
